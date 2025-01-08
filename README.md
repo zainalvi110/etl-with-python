@@ -3,6 +3,9 @@
 
 ### Project 01 : Acquiring and processing information on world's largest banks
 
+![ETL Process](LOGS.png)
+
+
 - Task 1: Logging function
 - Task 2 : Extraction of data
 - Task 3 : Transformation of data
